@@ -26,4 +26,5 @@ Symbols
 - Images appeal to the greatest range of people but they are also one of the hardest format to manage. They don't follow rules of conventional syntax.
 - Same sign and symbols can be used for different meaning depending upon the context.
 - It is possible to formally process symbols and that too in a machine, that is what a programming language is. But it differs greatly from natural language where there is no such highly restricted set of rules.
+- Mathematics and music both come under the paradigm of formal notation which have a symbol scheme to differentiate the symbols, unlike a sketch.
 
