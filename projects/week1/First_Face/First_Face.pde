@@ -1,0 +1,11 @@
+background(0,0,0);
+size(310, 310);
+fill(255,255,0);
+ellipse(155, 155, 300, 300);
+noFill();
+strokeWeight(5);
+arc(90,120,50,50,PI+(PI / 6),TWO_PI - (PI / 6));
+arc(220,120,50,50,PI+(PI / 6),TWO_PI - (PI / 6));
+fill(190,0,0);
+strokeWeight(1);
+arc(155,180,200,200,0 + (PI / 10), PI - (PI / 10), CHORD);
